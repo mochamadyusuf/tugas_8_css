@@ -1,0 +1,27 @@
+body {
+  background: url(../img/slider.jpg) no-repeat left top / cover;
+}
+
+.satu {
+  border: 2px solid #000;
+  width: 51%;
+  height: 320px;
+  background: #fff url(../img/avocado.jpg) repeat-y left top;
+  overflow: scroll;
+  font-weight: bold;
+}
+
+p {
+  text-align: right;
+  color: #00f;
+}
+
+p.dua {
+  text-align: left;
+  color: #080;
+}
+
+p.tiga {
+  text-align: center;
+  color: #f00;
+}
